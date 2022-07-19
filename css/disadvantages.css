@@ -1,0 +1,81 @@
+.navbar {
+    padding-bottom: 2.5rem;
+    margin-bottom: auto;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    padding-left: 3%;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 16px;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+    font-family: "Montserrat-Light";
+}
+
+img:hover {
+    box-shadow: 0 0 2px 2px rgba(255, 255, 255, 0.5);
+    padding: 3%;
+}
+
+
+body {
+    background-image: url("../Media/bg.jpg");
+    font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+    color: wheat;
+    font-family: "Montserrat-Black", sans-serif;
+    line-height: 1.5;
+    font-size: 2rem;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+strong {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    height: 1rem;
+    /* text-justify: center; */
+}
+
+.line {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(5, 5, 5);
+    border-width: 5px;
+    height: 0%;
+    width: 15%;
+}
+
+.container-fluid {
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+
+
+.dis_adv_img {
+    padding: 10%;
+    width: 100%;
+    height: 100%;
+}
+
+.dis_image {
+    padding: 05%;
+    width: 100%;
+    height: 100%;
+}
+
+.table_data {
+    line-height: 2rem;
+}
